@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	/*border: 2px solid red;*/
+	width: 30%;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #E9EBEE;
+}
+.b{
+	font-family: Verdana;
+	font-size: 40px;
+	margin:0;
+}
+.c{
+	font-family: Verdana;
+}
+.first_name,.last_name,.date{
+	width: 47%;
+	height: 25px;
+	padding: 5px;
+	font-size: 20px;
+	border-radius: 4px;
+	border: 1px solid #BDC7D8;
+}
+.gender{
+	width: 72%;
+	height: 25px;
+	padding: 5px;
+	font-family: Verdana;
+	font-size: 20px;
+	color: #858585;
+}
+.email,.password{
+	width: 96%;
+	height: 25px;
+	padding: 5px;
+	font-size: 20px;
+	border-radius: 4px;
+	border: 1px solid #BDC7D8;
+}
+.data{
+	/*border: 1px solid black;*/
+	width: 400px;
+}
+.button{
+	background-color: green;
+	font-size: 24px;
+	color: white;
+	width: 220px;
+	height: 50px;
+	border: 1px solid #BDC7D8;
+	border-radius: 10px;
+}
+.a{
+	display: inline-block;
+	font-size: 22;
+	font-family: Verdana;
+	color: #666666;
+}
+.d{
+	font-family: Verdana;
+}
+.home{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #23A657;
+}

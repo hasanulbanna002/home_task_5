@@ -1,0 +1,38 @@
+table{
+	border: 3px solid olive;
+	width: 70%;
+	border-collapse: collapse;
+	text-align: center;
+	background-color: #EBEDEF;
+}
+caption{
+	font-size: 30px;
+	color: green;
+	padding: 10px;
+}
+th{
+	border: 3px solid olive;
+	font-size: 22px;
+	padding: 7px;
+	color: brown;
+	text-align: center;
+	height: 30px;
+	background-color: lightblue;
+}
+td{
+	border: 3px solid olive;
+	font-size: 22px;
+	padding: 7px;
+	color: green;
+	text-align: center;
+	height: 30px;
+}
+td:hover{
+	background-color: violet;
+}
+.home{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #23A657;
+}

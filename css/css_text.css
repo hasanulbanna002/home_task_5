@@ -1,0 +1,36 @@
+.text{
+	border: 2px solid red;
+	padding: 12px;
+	width: 750px;
+	min-height: 200px;
+	font-size: 25px;
+	color: red;
+	text-align: justify;
+
+
+}
+.text p{
+	text-decoration: underline;
+	color: green;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 7px;
+	direction: rtl;
+	text-shadow: 2px 1px red;
+}
+.text2{
+	letter-spacing: -1.5px;
+	line-height: 17px;
+}
+.home{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #23A657;
+}
+.home{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #23A657;
+}

@@ -1,0 +1,93 @@
+/*header start*/
+body{
+	padding: 0;
+	margin: 0;
+}
+header{
+	background-color: #1E4F6F;
+	padding: 10px 0;
+}
+.wrapper {
+	overflow: hidden;
+	/*border: 2px solid yellow;*/
+	width: 80%;
+	margin: 0 auto;
+}
+.wrapper2{
+	overflow: hidden;
+	/*border: 1px solid lightgreen;*/
+	width: 60%;
+	float: left;
+}
+
+.logo {
+	width: 15%;
+	/*border: 1px solid red;*/
+	float: left;
+}
+.logo img{
+	width: 100%;
+}
+
+.menu {
+	/*border: 1px solid red;*/
+	width: 83%;
+	float: right;
+	margin-top: 4px;
+}
+.menu ul{
+	float: right;
+	list-style: none;	
+}
+.menu ul li{
+	float: left;
+}
+.menu ul li a{
+	display: block;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0 20px;
+	transition: .5s;
+}
+.menu ul li a:hover{
+	color: #8DC63F;
+}
+.menu ul li:last-child a{
+	padding-right: 0;
+}
+.menu2{
+	/*border: 1px solid red;*/
+	width: 20%;
+	float: right;
+	margin-top: 4px;
+}
+.menu2 ul{
+	list-style: none;
+	float: right;
+}
+.menu2 ul li{
+	float: left;
+}
+.menu2 ul li a{
+	display: block;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0 20px;
+	transition: .5s;
+}
+.menu2 ul li:last-child a{
+	padding-right: 0px;
+}
+.menu2 ul li a:hover{
+	color: #8DC63F;
+}
+.home{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #8DC63F;
+/*header end*/

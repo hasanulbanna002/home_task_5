@@ -1,0 +1,36 @@
+p{
+	font-size: 20px;
+	color: red;
+}
+#cssid{
+	font-size: 22px;
+	color: green;
+}
+.cssclass{
+	font-size: 20px;
+	font-family: Verdana;
+}
+div.cssclass{
+	color: orange;
+}
+.cssclass2{
+	color: olive;
+}
+.cssclass3{
+	font-size: 25px;
+}
+.background{
+	background-color: yellow;
+	font-size: 22px;
+}
+.background1{
+	background-image: url("https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	font-size: 22px;
+}
+.home{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #23A657;
+}
+

@@ -1,0 +1,32 @@
+img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+.pos{
+	font-size: 25px;
+	margin: 5px;
+	padding: 5px;
+}
+.position1{
+	border: 2px solid red;
+	width: 750px;
+	position: relative;
+	left: 40px;
+
+}
+.position2{
+	border: 2px solid red;
+	width: 750px;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	left: 30px;
+}
+.home{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #23A657;
+}
